@@ -1,3 +1,16 @@
-﻿.note {
-    width: 20%;
+﻿body {
+    background-color:antiquewhite;
+}
+
+.note {
+    background-image: url('/img/note.png');
+    background-size: auto;
+    margin: 1%;
+    padding: 3%;
+}
+
+.note-text {
+    height: 50px;
+    max-height: 50px;
+    overflow:hidden;
 }
